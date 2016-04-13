@@ -1,0 +1,44 @@
+body{width:1280px; height:auto; background-color:#E5E5E5; margin:0 auto; padding:0px; }
+#maindiv{width:970px; margin:0px auto; padding:0px;}
+#logodiv{width:250px; height:95px; float:left;}
+#socialnetworks{float:right; height:40px; padding-top:50px;}
+.socialnetworks ul{list-style-type:none; position:relative; text-decoration:none;}
+.socialnetworks ul li{display:inline;position:relative; padding:5px;}
+#menu{width:970px; height:40px;background-color:#284358;float:left; font-family:calibri; margin-top:10px; line-height:10px;  }
+.menu a {text-decoration:none; color:white;font-weight:bold;font-size:15px;}
+.menu a:hover{color:#3fb878;}
+.menu ul{list-style-type:none; }
+.menu ul li{ display:inline;}
+
+#image{width:970px; height:500px; float:left; margin-top:5px; background-color:#DBDBDB; background-image:url(../Images/AboutusBG.jpg); background-repeat:no-repeat; }
+#vision { padding-left:500px; width:970px; height:90px; padding-top:30px; float:left;}
+.visionsize { font-size:24px; color:#FFFFFF; font-weight:bold;}
+
+#vision_matter { padding-left:550px; width:350px; height:300px; float:left; padding-right:20px;}
+.vision_mattersize {font-size:15px; height:20px; text-align:justify; color:#FFFFFF;}
+
+#comments{width:940px; height:600px; float:left; margin-top:10px; border:5px solid #b3ad80; padding:10px 10px 10px 10px;}
+
+.teaching{background-color:#ECEBEO; width:310px; height:405px; float:left; border-right:2px solid #E6D8BB;}
+.teaching p{padding:0 10px 0 20px;color:#4a4c4e; font-size:18px; font-family:calibri;}
+.teaching h1{font-size:26px; font-family:calibri;}
+.teaching img{ margin-left:20px; padding:5px; border:3px solid #bfbcb4;}
+.teaching a{text-decoration:none; color:#5b0b07;}
+#bottomlogo{background-color:CECECE; width:970px; height:140px; margin-top:15px; border-width:6px 0 6px 0; border-style:solid; border-color:#b9b8b8; float:left;padding:0px 0 10px 0; }
+.bottomlogo{margin:10px 0 10px 0;}
+
+#copy {width:970px; height:30px;background-color:#284358; color:#FFFFFF; text-align:center; padding-top:10px;}
+
+
+/* ABOUT US PAGE*/
+
+.vision { text-align:justify; color:#000000; font-family:Arial, Helvetica, sans-serif, Courier, monospace; font-size:13PX;  line-height:22px; float:left;  }
+ 
+#visiondiv { width:550px; height:340px; padding: 0px 30px 10px 30px; float:left; background-color:#C4C4C4; }
+#visionimage { float:left; height:250px; width:350px;  float:left; padding-top:60px; }
+
+
+
+
+
+

@@ -1,0 +1,114 @@
+application:  application
+version: 1
+runtime: php55
+api_version: 1
+
+
+handlers:
+
+
+
+- url: /js
+  static_dir: js
+
+- url: /style1.css 
+  static_files: style1.css
+  upload: style1.css 
+
+
+- url: /style2.css 
+  static_files: style2.css
+  upload: style2.css 
+
+
+- url: /stylesheet.css 
+  static_files: stylesheet.css
+  upload: stylesheet.css 
+
+- url: /stylesheet1.css 
+  static_files: stylesheet1.css
+  upload: stylesheet1.css 
+
+- url: /logo.png
+  static_files: logo.png
+  upload: logo.png
+
+
+- url: /facebook.png
+  static_files: facebook.png
+  upload: facebook.png
+
+
+- url: /pinterest.png
+  static_files: pinterest.png
+  upload: pinterest.png
+
+
+- url: /linkedIn.png
+  static_files: linkedIn.png
+  upload: linkedIn.png
+
+
+
+- url: /GooglePlus.png
+  static_files: GooglePlus.png
+  upload: GooglePlus.png
+
+
+- url: /twitter.png
+  static_files: twitter.png
+  upload: twitter.png
+
+
+- url: /youtube.png
+  static_files: youtube.png
+  upload: youtube.png
+
+
+- url: /1a.jpg
+  static_files: 1a.jpg
+  upload: 1a.jpg
+
+- url: /1b.jpg
+  static_files: 1b.jpg
+  upload: 1b.jpg
+
+- url: /1c.jpg
+  static_files: 1c.jpg
+  upload: 1c.jpg
+
+- url: /1d.jpg
+  static_files: 1d.jpg
+  upload: 1d.jpg
+
+- url: /1e.jpg
+  static_files: 1e.jpg
+  upload: 1e.jpg
+
+- url: /13.jpg
+  static_files: 13.jpg
+  upload: 13.jpg
+
+- url: /15.jpg
+  static_files: 15.jpg
+  upload: 15.jpg
+
+- url: /18.jpg
+  static_files: 18.jpg
+  upload: 18.jpg
+
+
+
+
+
+
+
+
+
+
+- url: .*
+  script: home.html
+
+
+
+
