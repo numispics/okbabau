@@ -1,0 +1,32 @@
+body{width:1280px; height:auto; background-color:#E5E5E5; margin:0 auto; padding:0px; }
+#maindiv{width:970px; margin:0px auto; padding:0px;}
+#logodiv{width:250px; height:95px; float:left;}
+#socialnetworks{float:right; height:40px; padding-top:50px;}
+.socialnetworks ul{list-style-type:none; position:relative; }
+.socialnetworks ul li{display:inline;position:relative; padding:5px;}
+#menu{width:970px; height:40px;background-color:#284358;float:left; font-family:calibri; margin-top:10px; line-height:10px;  }
+.menu a {text-decoration:none; color:white;font-weight:bold;font-size:15px;}
+.menu a:hover{color:#3fb878;}
+.menu ul{list-style-type:none; }
+.menu ul li{ display:inline;}
+
+#container{width:962px; height:450px; border:5px solid #284358; float:left; margin-top:15px; overflow:hidden; background:#ff00ff; }
+#slideshow {height:100%; width:100%}
+#circle1 {width:10px; height:10px; border-radius:5px; float: left;  background-color:red; margin-bottom:15px; }
+
+
+
+#comments{width:940px; height:405px; float:left; margin-top:10px; border:5px solid #b3ad80; padding:10px 10px 10px 10px;}
+.bgimage{background-image:url("images/bgimage.jpg"); width:942px; height:383px; background-repeat:no-repeat;background-position:center;}
+.teaching{background-color:#ECEBEO; width:310px; height:405px; float:left; border-right:3px solid #E6D8BB;}
+.teaching p{padding:0 10px 0 20px;color:#4a4c4e; font-size:18px; font-family:calibri;}
+.teaching h1{font-size:26px; font-family:calibri;}
+.teaching img{ margin-left:20px; padding:5px; border:2px solid #bfbcb4;}
+.teaching a{text-decoration:none; color:#5b0b07;} 
+#bottomlogo{background-color:CECECE; width:970px; height:140px; margin-top:15px; border-width:6px 0 6px 0; border-style:solid; border-color:#b9b8b8; float:left;padding:0px 0 10px 0; }
+.bottomlogo{margin:10px 0 10px 0;}
+
+#copy {width:970px; height:30px;background-color:#284358; color:#FFFFFF; text-align:center; padding-top:10px;}
+
+
+
